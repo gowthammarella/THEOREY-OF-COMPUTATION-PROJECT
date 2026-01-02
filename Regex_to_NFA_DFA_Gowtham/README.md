@@ -17,19 +17,4 @@ The implementation is done in **Python** and demonstrates core concepts of **Aut
 ✔️ DFA Minimization  
 ✔️ Graph Visualization  
 
----
 
-## 📌 Technologies Used
-- Python
-- Jupyter Notebook
-
----
-
-## 👤 Author
-**Gowtham Royal Vikramadithya**  
-B.Tech CSE (AI & DS), Joy University
-
----
-
-## 📜 License
-This project is licensed under the MIT License.
